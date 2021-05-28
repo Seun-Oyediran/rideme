@@ -629,6 +629,13 @@ footer{
     section{
         margin-bottom: 2rem;
     }
+    header{
+        padding: 1rem 0;
+    }
+    .header-container .logo{
+        font-size: 10px;
+        text-align: center;
+    }
     .btn-con{
         width: 100%;
     }
